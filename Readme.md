@@ -20,8 +20,8 @@ Curiosity and a relentless drive to innovate in AI technologies. I'm committed t
 ---
 
 🌐 **Connect with Me:**
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](#)
+- LinkedIn: [(https://www.linkedin.com/in/shubhangi-katariyar/)](#)
+
 
 📬 **Feel free to reach out for collaborations, opportunities, or just a chat about the latest in AI!**
 
