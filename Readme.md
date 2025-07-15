@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubhangi Katariyar
 
-**Incoming ML Graduate Student** @ University of Wisconsin-Madison  
+**Incoming ECE - ML Graduate Student** @ University of Wisconsin-Madison  
 **AI Research Engineer** | ML • NLP • LLM Specialist  
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://shubhangikatariyar.github.io/studio/)
