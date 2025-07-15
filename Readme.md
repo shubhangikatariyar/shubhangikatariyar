@@ -1,22 +1,25 @@
 # 👋 Hi, I'm Shubhangi Katariyar
 
+**Incoming ML Graduate Student** @ University of Wisconsin-Madison  
 **AI Research Engineer** | ML • NLP • LLM Specialist  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=flat)](https://shubhangikatariyar.github.io/studio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-katariyar/)
-[![Email](https://img.shields.io/badge/Academic_Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:katariyar@wisc.edu)
 
-## 🔬 **Core Expertise**
-- **Machine Learning**: Model architecture & optimization (PyTorch/TensorFlow)
-- **Natural Language Processing**: Transformers, generative AI, conversational systems
-- **Large Language Models**: Efficient fine-tuning (LoRA), RAG, and quantization
-- **MLOps**: CI/CD pipelines, containerization (Docker), and cloud deployment
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://shubhangikatariyar.github.io/studio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-katariyar/)
+[![Email](https://img.shields.io/badge/Contact_Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:katariyar@wisc.edu)
 
-## 📫 **Connect With Me**
-- **Collaborations**: Open to research partnerships in NLP/LLM spaces  
-- **Discussions**: Let's talk about:  
-  - LLM efficiency techniques (pruning/distillation)  
-  - Ethical AI frameworks  
-  - Novel transformer architectures  
+## 🔬 **Research Focus**
+- **Next-Gen LLMs**: Efficient fine-tuning & alignment techniques
+- **Multimodal NLP**: Vision-language model integration
+- **Trustworthy AI**: Bias mitigation and explainability
+
+## 🛠️ **Technical Toolkit**  
+`PyTorch` `Transformers` `HuggingFace` `ONNX` `Docker` `Kubernetes`  
+`RAG` `LoRA` `QLoRA` `LangChain` `LLAMA.cpp`
+
+## 🌱 **Current Explorations**
+- Edge deployment of LLMs (TinyML + quantization)
+- Neurosymbolic approaches for robust reasoning
+- ML systems for low-resource languages
 
 *"The only way to discover the limits of the possible is to go beyond them."*  
 — Arthur C. Clarke
