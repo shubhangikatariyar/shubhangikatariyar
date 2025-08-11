@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Shubhangi Katariyar
 
-**Incoming ECE - ML Graduate Student** @ University of Wisconsin-Madison  
 **AI Research Engineer** | ML • NLP • LLM Specialist  
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://shubhangikatariyar.github.io/studio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-katariyar/)
 [![Email](https://img.shields.io/badge/Contact_Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:katariyar@wisc.edu)
 
@@ -23,3 +21,4 @@
 
 *"The only way to discover the limits of the possible is to go beyond them."*  
 — Arthur C. Clarke
+
