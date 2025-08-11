@@ -3,7 +3,7 @@
 **AI Research Engineer** | ML • NLP • LLM Specialist  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-katariyar/)
-[![Email](https://img.shields.io/badge/Contact_Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:katariyar@wisc.edu)
+[![Email](https://img.shields.io/badge/Contact_Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:katariyar.shubhangi@gmail.com)
 
 ## 🔬 **Research Focus**
 - **Next-Gen LLMs**: Efficient fine-tuning & alignment techniques
@@ -21,4 +21,5 @@
 
 *"The only way to discover the limits of the possible is to go beyond them."*  
 — Arthur C. Clarke
+
 
