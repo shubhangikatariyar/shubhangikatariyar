@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Shubhangi Katariyar
 
-**AI Research Engineer** | ML • NLP • LLM Specialist
+**🎓 ML Grad | University of Wisconsin Madison** | ML • NLP • LLM Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F5F5F5?style=for-the-badge&logo=githubpages&logoColor=black)](https://shubhangikatariyar.github.io/studio/)
-[![UW–Madison](https://img.shields.io/badge/UW–Madison-ML_Grad_Student-C5050C?style=for-the-badge&logo=academia&logoColor=white)](https://www.wisc.edu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-katariyar/)
 [![Contact Me](https://img.shields.io/badge/Contact_Me-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katariyar@wisc.edu)
 
