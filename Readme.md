@@ -2,9 +2,9 @@
 
 **AI Research Engineer** | ML • NLP • LLM Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=githubpages&logoColor=white)](https://shubhangikatariyar.github.io/studio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F5F5F5?style=for-the-badge&logo=githubpages&logoColor=black)](https://shubhangikatariyar.github.io/studio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-katariyar/)
-[![Email](https://img.shields.io/badge/Work_Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katariyar@wisc.edu)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katariyar@wisc.edu)
 
 ## 🛠️ Tech Stack
 `Python` `PyTorch` `Transformers` `Hugging Face` `LangChain` `RAG` `Docker` `Kubernetes` `ONNX`
